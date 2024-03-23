@@ -1,0 +1,3 @@
+Error :-
+
+The function is declared but not defined hence it does not return anything.
